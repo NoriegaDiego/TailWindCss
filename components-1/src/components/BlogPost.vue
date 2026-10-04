@@ -11,7 +11,7 @@ defineProps ({
     cambiarFavorito: Function
 })
 
-const emit = defineEmits(['cambiarFavoritoNombre'])
+//const emit = defineEmits(['cambiarFavoritoNombre'])
 </script>
 
 <template>
